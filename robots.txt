@@ -1,0 +1,11 @@
+# robots.txt para https://nevesdev.com.br
+
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /painel/
+Disallow: /api/
+Allow: /
+
+# Sitemap XML
+Sitemap: https://nevesdev.com.br/sitemap.xml
